@@ -1,18 +1,18 @@
 # Hi there, I'm Aayush Yadav 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Data+Scientist;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with a strong foundation in modern web technologies. I enjoy creating efficient, scalable solutions and am always eager to learn new technologies and tackle challenging problems.
+I'm a passionate developer specializing in web development and data science. I love building responsive web applications and extracting meaningful insights from data through analytics and machine learning. My goal is to bridge the gap between data-driven decision making and user-friendly web experiences.
 
-- 🔭 Currently working on: **Full-stack web applications using MERN stack**
-- 🌱 Learning: **Advanced React patterns, Cloud technologies (AWS/Azure), and DevOps practices**
-- 💬 Ask me about: **JavaScript, Python, Node.js, React, MongoDB, and web development best practices**
+- 🔭 Currently working on: **Data visualization dashboards and full-stack web applications**
+- 🌱 Learning: **Machine Learning algorithms, Data Analysis with Python, and Advanced JavaScript frameworks**
+- 💬 Ask me about: **Web Development, Data Science, Python, JavaScript, Data Visualization, and Statistical Analysis**
 - 📫 Reach me: **aayushyadav9820@gmail.com**
-- ⚡ Fun fact: **I love solving algorithmic challenges and contributing to open-source projects**
+- ⚡ Fun fact: **I enjoy turning complex datasets into beautiful, interactive web visualizations**
 
 ---
 
@@ -21,10 +21,21 @@ I'm a passionate full-stack developer with a strong foundation in modern web tec
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
