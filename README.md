@@ -54,12 +54,12 @@ I'm a passionate developer specializing in web development and data science. I l
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Yadav-34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Yadav-34&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yadav-Aayush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadav-Aayush&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Yadav-34&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadav-Aayush&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -67,26 +67,26 @@ I'm a passionate developer specializing in web development and data science. I l
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-Yadav-34&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yadav-Aayush&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/Aayush-Yadav-34/project-1)
+### 🌟 [Project Name 1](https://github.com/Yadav-Aayush/project-1)
 **Tech Stack:** React, Node.js, MongoDB, Express.js
 - Brief description of what the project does
 - Key features and functionality
 - Live demo link (if available)
 
-### 🌟 [Project Name 2](https://github.com/Aayush-Yadav-34/project-2)
+### 🌟 [Project Name 2](https://github.com/Yadav-Aayush/project-2)
 **Tech Stack:** Python, Django, PostgreSQL
 - Brief description of what the project does
 - Key features and functionality
 - Live demo link (if available)
 
-### 🌟 [Project Name 3](https://github.com/Aayush-Yadav-34/project-3)
+### 🌟 [Project Name 3](https://github.com/Yadav-Aayush/project-3)
 **Tech Stack:** JavaScript, HTML5, CSS3
 - Brief description of what the project does
 - Key features and functionality
@@ -112,8 +112,8 @@ I'm a passionate developer specializing in web development and data science. I l
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-yadav-2a92592a7/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushyadav9820@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
@@ -122,7 +122,7 @@ I'm a passionate developer specializing in web development and data science. I l
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush-Yadav-34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yadav-Aayush&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
